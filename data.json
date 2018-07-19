@@ -1,0 +1,49 @@
+{"basics":
+{
+  "image":"image.png",
+  "name":"Durga Pavani",
+  "phoneno":"+91-3456789098",
+  "email":"kdurgapavani2310@gmail.com",
+  "Address":"Srkr College,Bhimavaram."
+},
+  "CareerObjective":
+  {
+   "info":"By beginning your resume with a quality that makes you valuable to the company, you'll immediately capture the hiring manager's attention. Broadly, a career objective is a short summary telling a hiring manager that you have the relevant skills, abilities and experience to help the company achieve its goals."
+ },
+ "education":[
+ {
+   "degree":"B.Tech",
+   "institute":"SRKR College",
+   "data":["2016-2020","89%"]
+ },
+ {
+   "degree":"Intermediate",
+   "institute":"Aditya College",
+   "data":["2014-2016","98%"]
+ },
+ {
+   "degree":"SSC",
+   "institute":"Pratibha school",
+   "data":["2015-2016","98%"]
+ }
+],
+"skills":[
+{
+  "title":"Languages",
+  "data":["c","c++","java","python"]
+},
+{
+  "title":"Database",
+  "data":["Sql","Mysql","Oracle"]
+},
+{
+  "title":"Operating Systems",
+  "data":["Windows","linux","unix"]
+}
+],
+"achievements":{
+  "grade":"Honor role for high Grade.",
+  "attendance":"Perfect attendance awards.",
+  "ppt":"Achieved first prize in ppt."
+}
+}
