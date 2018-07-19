@@ -167,7 +167,7 @@ function achieve(ach)
 
     var ac2ul = document.createElement("ul");
     var ac2li = document.createElement("li");
-    ac2li.textContent = ach.grade;
+    ac2li.textContent = ach.ppt;
     ac2ul.appendChild(ac2li);
     child1.appendChild(ac2ul);
 
